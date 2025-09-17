@@ -1,20 +1,18 @@
-Thesis Admin Dashboard
+# Dashboard Admin Skripsi
 
-Web-based admin dashboard for managing mental health symptoms and user feedback, integrated with a WhatsApp Bot for early diagnosis in children.
+Web-based **Admin Dashboard** untuk mengelola data skripsi, termasuk gangguan mental, gejala, dan diagnosa. Terintegrasi dengan **WhatsApp Bot** untuk notifikasi otomatis.
 
-🚀 Features
+## Fitur
+- **CRUD Management**: Tambah, edit, hapus, dan lihat data dengan mudah
+- **Integrasi WhatsApp Bot**: Mengirim notifikasi otomatis
+- **Login Aman**: Melindungi dashboard dari akses tidak sah
 
-CRUD Management: Efficiently add, edit, and delete symptoms, mental health conditions, and feedback.
+## Teknologi
+- **PHP** + **MySQL**
+- **AdminLTE** (UI Dashboard)
+- **WhatsApp Bot Integration**
 
-WhatsApp Bot Integration: Automate user interactions and early diagnosis notifications.
-
-Responsive UI & Secure Login: Mobile-friendly interface with authentication for safe access.
-
-Real-Time Data Tracking: Monitor feedback and symptom data seamlessly.
-
-🛠 Tech Stack
-
-PHP | MySQL | AdminLTE
-
-📸 Screenshots
-<div align="center"> <img src="screenshots/login.png" alt="Login Page" width="200"/> <img src="screenshots/dashboard.png" alt="Dashboard Overview" width="200"/> <img
+## Cara Pakai
+1. Clone repo:  
+   ```bash
+   git clone https://github.com/reyfa18/Dashboard-Admin-Skripsi.git
